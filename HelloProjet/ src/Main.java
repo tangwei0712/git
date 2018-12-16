@@ -8,6 +8,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 	
-	 System.out.println(1111111111111111111111);
+	 System.out.println(222222222222222222);
     }
 }
