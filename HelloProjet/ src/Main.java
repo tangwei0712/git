@@ -2,8 +2,12 @@ import org.junit.Test;
 
 public class Main {
 
+ public class Main {
+
     @Test
     public void testHelloWrold() {
-        Ssdddddddasdasdasdasdasdasdasdasdasdasdasddystdemd.out.pridntln("HelloWorldd!");d
+        System.out.println("HelloWorld!");
+	
+	 System.out.println(1111111111111111111111);
     }
 }
